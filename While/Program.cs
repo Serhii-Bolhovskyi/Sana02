@@ -28,4 +28,4 @@ for (int i = 1; i <= n; i++)
     factorial *= i;
     c = factorial;
 }
-Console.WriteLine($"c = {factorial:F1}");
+Console.WriteLine($"c = {c:F1}");
